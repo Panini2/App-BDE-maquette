@@ -163,7 +163,9 @@
   }
 
   body {
-    background-image: url("./stationery-corners-white-background.jpg");
+    margin: 0;
+    margin-bottom: 100%;
+    background-image: url("./very-small-stationery-corners-white-background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
