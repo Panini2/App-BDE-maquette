@@ -162,15 +162,6 @@
     z-index: 5;
   }
 
-  body {
-    margin-bottom: 25vh;
-    background-image: url("./frame-from-stationery.jpg");
-    background-size: 250%;
-    background-repeat: no-repeat;
-    background-position: 50% 60%;
-  }
-
-
   .logo {
     translate: 0px -30px;
     width: 10rem;

@@ -162,14 +162,6 @@
   z-index: 5;
 }
 
-body {
-  background-image: url("./stationery-corners-white-background.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-}
-
-
 .logo {
   translate: 0px -30px;
   width: 10rem;
