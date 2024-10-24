@@ -84,9 +84,11 @@ nav {
 }
 
 .offscreen-menu ul {
+    height: 100%;
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    row-gap: 5%;
   }
 
 .offscreen-menu ul li {
@@ -105,4 +107,5 @@ nav {
 
 .offscreen-menu ul li:hover {
     box-shadow:  8px 8px 40px #b5b5b5, -8px -8px 40px #ffffff;
+    font-size: 1.55rem;
 }
