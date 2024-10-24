@@ -19,7 +19,15 @@
     display: flex;
     justify-content: center;
     align-items: first baseline;
-    background-color: #FFFFFF;
+    background-color: #ecf0f3;
+}
+
+a {
+  color: #000000; text-decoration: none;
+}
+
+a:hover {
+ color :#000000; text-decoration:none; cursor:pointer;
 }
 
 .container {
@@ -40,8 +48,8 @@
   padding-right: 2em;
   padding-bottom: 0.4em;
   border-radius: 25px;
-  background: linear-gradient(145deg, #ffffff, #f7f7f7);
-  box-shadow:  20px 20px 40px #d1d1d1, -20px -20px 40px #ffffff;
+  /* background: linear-gradient(145deg, #ffffff, #f7f7f7); */
+  box-shadow:  -14px -14px 30px 0 #fff, 14px 14px 30px 0 #d1d9e6;
 
 }
 
@@ -75,8 +83,7 @@
   border: none;
   outline: none;
   color: black;
-  background: #ffffff;
-  box-shadow: inset 10px 10px 20px #e4e4e4, inset -10px -10px 20px #ffffff;
+  box-shadow: inset -11px -11px 20px 0 #fff, inset 11px 11px 20px 0 #d1d9e6;
 }
 
 .input-icon {
